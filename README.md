@@ -10,7 +10,7 @@ The entire project is done in the ROS environment using ROS2 humble on ubuntu 22
 The user inputs which tool to grab in the /UI node and the grab proceeds to compute the necessary parameters for performing path planning and grabbing the tool. After the tool is grabbed by the arm, it hands it to the surgeon to a pre-defined location.
 
 <h2> rqt_graph </h2>
-![rqt](https://github.com/Baher-Kherbek/Niryo-Arm-as-a-dental-surgeon-assistant/assets/103322810/868a8f86-2c41-4b0b-a4b6-6fde3c68bf61)
+![rqt](https://github.com/kheirbeq-aya/Niryo-Arm-as-a-dental-surgeon-assistant/assets/103322810/868a8f86-2c41-4b0b-a4b6-6fde3c68bf61)
 
 <h2> Acknowledgements </h2>
 gratitude to Manara University for allowing us to use their equipment.

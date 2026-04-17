@@ -1,5 +1,4 @@
-
-# Niryo One Robotic Arm for Dental Tool Manipulation 🤖🦷
+# Niryo One Robotic Arm for Dental Tool Manipulation
 
 ## Abstract
 
